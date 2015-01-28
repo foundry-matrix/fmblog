@@ -3,14 +3,19 @@ layout: page
 title: Team
 permalink: /team/
 ---
+<<<<<<< HEAD
+=======
+<div class="img-circular">
+</div>
+>>>>>>> 16d66519c0e69e19a3dd09c8c51a871bf3b5a148
 
 <div class="row">
 
-<div class ="col-lg-3 col-sm-4">
+	<div class ="col-lg-4 col-sm-4">
 
-<div class=
+	<div class=
 	"img-circulardk">
-</div>
+	</div>
 
 </div>
 
@@ -22,7 +27,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 <div class="row">
 
-<div class ="col-lg-3 col-sm-4">
+<div class ="col-lg-4 col-sm-4">
 
 <div class=
 	"img-circularphb">
@@ -36,19 +41,4 @@ This is the base Jekyll theme. You can find out more info about customizing your
 </div>
 </div>
 
-<div class="row">
-
-<div class ="col-lg-3 col-sm-4">
-
-<div class=
-	"img-circularga">
-</div>
-
-</div>
-
-<div class ="col-lg-8 col-sm-8">
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-</div>
-</div>
 
