@@ -3,8 +3,12 @@ layout: page
 title: Team
 permalink: /team/
 ---
-<div class="img-circular"></div>
+<div class="img-circular">
 
+<img src='https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1456685_10152070689069715_1562939626_n.jpg?		oh=d20e0221e0cca39a90300bda87990ce4&oe=55531A4E'/>
+</div>
+
+<p> this is html
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
