@@ -3,7 +3,11 @@ layout: page
 title: Team
 permalink: /team/
 ---
-
+<<<<<<< HEAD
+=======
+<div class="img-circular">
+</div>
+>>>>>>> 16d66519c0e69e19a3dd09c8c51a871bf3b5a148
 
 <div class="row">
 
