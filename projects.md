@@ -3,9 +3,19 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<div class="container-fluid">
+	<div class="col-md-12">
+		<h1> Week 1 - Create a Blog</h1>
+		<div class="week1img">
+		</div>
+		<p class="hashtag">#MindBlown</p>
+	</div>
+</div>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<div class="container-fluid">
+	<div class="col-md-12">
+		<h1> Week 2 - TBC</h1>
+		<div class="week2img">
+		</div>
+	</div>
+</div>
