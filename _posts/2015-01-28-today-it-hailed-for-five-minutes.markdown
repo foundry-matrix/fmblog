@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Introducing Foundry-Matrix"
-date:   2015-01-27 16:07:15
+title:  "Today it hailed for five minutes"
+date:   2015-01-28 16:07:15
 categories: jekyll update
 ---
+It was great. 
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

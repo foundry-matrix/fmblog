@@ -8,48 +8,95 @@ layout: default
 <!-- test bs -->
   <div class="content-section-a">
 
-        <div class="container">
+        <div class="container-fluid">
 
             <div class="row">
 
-                <div class="col-lg-12">
+                <div class="col-md-12">
                     <img class="img-responsive homepage-img" src="http://www.hitecheshop.com/images/HomePageBanner_IT.jpg" alt="">
                 </div>
 
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">WiFi Enabled</h2>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
-                
             </div>
         </div>
+
+        <!-- 3 boxes -->
+        <div class="container-fluid 3imgs">
+          
+              <div class = "col-md-4 3imgs">
+                  <img class = "img-responsive" src = "http://www.wallpaperup.com/uploads/wallpapers/2012/12/11/24363/big_thumb_443b883e839ba3fbee3be6a75ee70bd0.jpg">
+              </div>
+
+              <div class = "col-md-4 3imgs">
+                  <img class = "img-responsive" src = "http://www.wallpaperup.com/uploads/wallpapers/2012/12/11/24363/big_thumb_443b883e839ba3fbee3be6a75ee70bd0.jpg">
+              </div>
+
+               <div class = "col-md-4 3imgs">
+                  <img class = "img-responsive" src = "http://www.wallpaperup.com/uploads/wallpapers/2012/12/11/24363/big_thumb_443b883e839ba3fbee3be6a75ee70bd0.jpg">
+              </div>
+          
+
+        </div>
+
+
+        <!-- end 3 boxes -->
+              
+
+
+
+        <div class="col-md-12">
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <br>
+            <h1 class="section-heading">Welcome to Foundry-Matrix</h1>
+            <p>The world is changing all around us. To continue to thrive as a business over the next ten years and beyond, we must look ahead, understand the trends and forces that will shape our business in the future and move swiftly to prepare for what's to come. We must get ready for tomorrow today. That's what our 2020 Vision is all about. It creates a long-term destination for our business and provides us with a "Roadmap" for winning together with our bottling partners. </p>
+
+            <h2>Our Mission</h2>
+
+            <p>Our Roadmap starts with our mission, which is enduring. It declares our purpose as a company and serves as the standard against which we weigh our actions and decisions. </p>
+
+            <p>To refresh the world...<br>
+            To inspire moments of optimism and happiness...<br>
+            To create value and make a difference.</p>
+            Our Vision
+
+            <p>Our vision serves as the framework for our Roadmap and guides every aspect of our business by describing what we need to accomplish in order to continue achieving sustainable, quality growth.
+            </p>
+
+            <h2>Please Note</h2>
+            <p>Any similarity to Coca Cola's mission statement is <strong> strictly conincidental</strong>. We are both global, ambitious business empires. Similarities are inevitable! </p>
+
+            <br>
+            <br>
+
+
     </div>
+                
+           
    
    <!-- end test bs -->
+   <div class = "container-fluid">
+        <div class = "col-md-12">
 
-  <h1 class="page-heading">Posts</h1>
+          <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <ul class="post-list">
+            {% for post in site.posts %}
+              <li>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+                <h2>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+              </li>
+            {% endfor %}
+          </ul>
 
-  
+        </div>
+    </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+      
+
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

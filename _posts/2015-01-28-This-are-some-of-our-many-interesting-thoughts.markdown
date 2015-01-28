@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introducing Foundry-Matrix"
-date:   2015-01-27 16:07:15
+title:  "These are some of our interesting thoughts"
+date:   2015-01-28 16:07:15
 categories: jekyll update
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
