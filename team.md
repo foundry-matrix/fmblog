@@ -3,13 +3,14 @@ layout: page
 title: Team
 permalink: /team/
 ---
+
 <div class="row">
 
-<div class ="col-lg-4 col-sm-4">
+	<div class ="col-lg-4 col-sm-4">
 
-<div class=
+	<div class=
 	"img-circulardk">
-</div>
+	</div>
 
 </div>
 
@@ -34,4 +35,5 @@ This is the base Jekyll theme. You can find out more info about customizing your
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 </div>
 </div>
+
 
