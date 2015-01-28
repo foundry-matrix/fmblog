@@ -3,6 +3,7 @@
 ---
 @charset "utf-8";
 
+
 .img-circular{
  width: 200px;
  height: 200px;
@@ -11,6 +12,10 @@
  display: block;
  border-radius: 100px;
 }
+
+
+// import bootstrap
+@import "bootstrap";
 
 
 // Our variables
