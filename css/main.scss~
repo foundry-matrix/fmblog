@@ -3,7 +3,7 @@
 ---
 @charset "utf-8";
 
-
+<<<<<<< HEAD
 .img-circular{
  width: 200px;
  height: 200px;
@@ -13,10 +13,10 @@
  border-radius: 100px;
 }
 
-
+=======
 // import bootstrap
 @import "bootstrap";
-
+>>>>>>> 5fd25dd4d921d2e49d5cd11a7ee0ee35b6d18fbb
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
