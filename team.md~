@@ -3,15 +3,35 @@ layout: page
 title: Team
 permalink: /team/
 ---
-<div class="img-circular">
+<div class="row">
 
-<img src='https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1456685_10152070689069715_1562939626_n.jpg?		oh=d20e0221e0cca39a90300bda87990ce4&oe=55531A4E'/>
+<div class ="col-lg-4 col-sm-4">
+
+<div class=
+	"img-circulardk">
 </div>
 
-<p> this is html
+</div>
 
+<div class ="col-lg-8 col-sm-8">
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+</div>
+</div>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<div class="row">
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<div class ="col-lg-4 col-sm-4">
+
+<div class=
+	"img-circularphb">
+</div>
+
+</div>
+
+<div class ="col-lg-8 col-sm-8">
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+</div>
+</div>
+

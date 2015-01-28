@@ -4,10 +4,20 @@
 @charset "utf-8";
 
 
-.img-circular{
+.img-circulardk{
  width: 200px;
  height: 200px;
  background-image: url('https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1456685_10152070689069715_1562939626_n.jpg?		oh=d20e0221e0cca39a90300bda87990ce4&oe=55531A4E');
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+
+}
+
+.img-circularphb{
+ width: 200px;
+ height: 200px;
+ background-image: url('https://scontent-b-lhr.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1506007_10154830165570183_1136743687473614627_n.jpg?oh=f88d07851204686f04c3e001d79b9d38&oe=5522CDA6');
  background-size: cover;
  display: block;
  border-radius: 100px;
