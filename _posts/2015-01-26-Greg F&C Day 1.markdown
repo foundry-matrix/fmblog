@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Gregs First Day"
 date:   2015-01-27 16:07:15
 categories: jekyll update
 ---
