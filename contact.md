@@ -4,17 +4,34 @@ title: Contact
 permalink: /contact/
 ---
 
+<script type="text/javascript">
+
+var center;
+function calculateCenter() {
+  center = map.getCenter();
+}
+google.maps.event.addDomListener(map, 'idle', function() {
+  calculateCenter();
+});
+google.maps.event.addDomListener(window, 'resize', function() {
+  map.setCenter(center);
+});
+
+</script>
 
 
-<div class ="col-lg-8 col-sm-8">
+<div class ="col-lg-12 col-sm-12">
 	<div class="container-fluid">
-		<iframe
+		<div class="google-maps">
+		<iframe		  
 		  width="600"
-		  height="250"
+		  height="450"
 		  frameborder="0" style="border:0"
 		  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDmOyKpQ4tgIemHFTepmzEFSsgDGP1Rwxs
-		    &q=14+Palmers+Rd,+London+E2+0SY,+Storbritannia">
+		    &zoom=16&q=14+Palmers+Rd,+London+E2+0SY,+Storbritannia">
+
 		</iframe>
+		</div>
 	</div>
 </div>
 

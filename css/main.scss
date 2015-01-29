@@ -3,6 +3,49 @@
 ---
 @charset "utf-8";
 
+div a img{
+	margin: 2px;
+	border-radius: 10px;
+	width:150px;
+}
+
+#instabox{
+	margin-bottom: 20px;
+}
+
+
+#instalogo{
+	width: 150px;
+
+}
+
+
+#hashtag{
+		float: right;
+		margin-bottom: 0px !important;
+		margin-right: 6%;
+}
+
+
+
+.google-maps{
+	position: relative;
+	padding-bottom: 37%;
+	height: 0;
+	overflow: hidden;
+	width: 100%;
+}
+
+.google-maps iframe{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
+
+
+
 .name{
 	margin-top:30px;
 }

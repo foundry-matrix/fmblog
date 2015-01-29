@@ -44,6 +44,11 @@ This is the base Jekyll theme. You can find out more info about customizing your
 <a href="https://www.linkedin.com">
 <img class="social_icon" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png">
 </a>
+<a href="https://www.codewars.com">
+<img class="social_icon" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1400019742/pbpj9oxf1ipwrisnj9ia.png">
+</a>
+
+
 </div>
 </div>
 
@@ -63,6 +68,10 @@ This is the base Jekyll theme. You can find out more info about customizing your
 <a href="https://www.linkedin.com">
 <img class="social_icon" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png">
 </a>
+<a href="https://www.codewars.com">
+<img class="social_icon" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1400019742/pbpj9oxf1ipwrisnj9ia.png">
+</a>
+
 </div>
 </div>
 
@@ -85,6 +94,11 @@ This is the base Jekyll theme. You can find out more info about customizing your
 <a href="https://www.linkedin.com">
 <img class="social_icon" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png">
 </a>
+<a href="https://www.codewars.com">
+<img class="social_icon" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1400019742/pbpj9oxf1ipwrisnj9ia.png">
+</a>
+
+
 </div>
 </div>
 
