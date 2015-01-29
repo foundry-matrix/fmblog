@@ -1,4 +1,23 @@
-.jumbotron {
-background-color: #B0CCB0;
-color: white;
+.img1{
+	background-image: url("http://www.psdgraphics.com/file/colorful-triangles-background.jpg");
+	height: 20em;
+	border-radius: 15px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+
+}
+
+.img2{
+	background-image: url("http://4vector.com/i/free-vector-dynamic-brilliant-color-background-02-vector_017212_2.jpg");
+	height: 20em;
+	border-radius: 15px;
+}
+
+.img3{
+	background-image: url("http://7-themes.com/data_images/out/61/6979986-brick-wall-background.jpg");
+	height: 20em;
+	border-radius: 15px;
 }
