@@ -2,9 +2,7 @@
 title: Foundry-Matrix
 email: Foundry@Matrix.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The fantastic four have met to conquer the world using their newly found coding skills. watch out
 baseurl: "/fmblog" # the subpath of your site, e.g. /blog/
 url: "http://foundry-matrix.github.io/fmblog/" # the base hostname & protocol for your site
 twitter_username: founderscoders
