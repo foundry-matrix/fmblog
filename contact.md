@@ -37,7 +37,7 @@ google.maps.event.addDomListener(window, 'resize', function() {
 
 <div class="contact-form col-xs-12 col-md-12">
 	<div class="container-fluid">
-		<form>
+		<form action="https://formspree.io/gaj.aubert@gmail.com">
 			<div class="form-group">
 				<label for="form-name-input">Name</label>
 				<input type="text" class="form-control" id="form-name-input" placeholder="Your Name">
