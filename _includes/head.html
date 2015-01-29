@@ -6,6 +6,19 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <script src="{{ "/js/instafeed.js" | prepend: site.baseurl }}"> </script>
+  <script type="text/javascript">
+    var feed = new Instafeed({
+        get: 'tagged',
+        tagName: 'foundersandcoders',
+        limit: '12',
+        clientId: '6f739e70d4504bc8b13ff53504e95fa3'
+    });
+    feed.run();
+</script>
+
+
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <!-- custom css -->
   <link rel="stylesheet" href="{{ "/css/asim.css" | prepend: site.baseurl }}">
