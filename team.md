@@ -8,44 +8,44 @@ permalink: /team/
 $( document ).ready(function() {
 
 $("#img-circulardk").hover( function(){
-	$("#img-circulardk").attr('src', "http://foundry-matrix.github.io/fmblog/img/cup1.JPG");
+	$("#img-circulardk").attr('src', "http://foundry-matrix.github.io/fmblog/img/cup1.jpg");
 	console.log("mouse on");
 
 }, function(){
-	$("#img-circulardk").attr('src', "http://foundry-matrix.github.io/fmblog/img/cup2.JPG");
+	$("#img-circulardk").attr('src', "http://foundry-matrix.github.io/fmblog/img/cup2.jpg");
 	
 	console.log("mouse off");
 });
 
 
 $("#img-circularphb").hover( function(){
-	$("#img-circularphb").attr('src', "http://foundry-matrix.github.io/fmblog/img/per1.JPG");
+	$("#img-circularphb").attr('src', "http://foundry-matrix.github.io/fmblog/img/per1.jpg");
 	console.log("mouse on");
 
 }, function(){
-	$("#img-circularphb").attr('src', "http://foundry-matrix.github.io/fmblog/img/per2.JPG");
+	$("#img-circularphb").attr('src', "http://foundry-matrix.github.io/fmblog/img/per2.jpg");
 	
 	console.log("mouse off");
 });
 
 
 $("#img-circularaj").hover( function(){
-	$("#img-circularaj").attr('src', "http://foundry-matrix.github.io/fmblog/img/asim1.JPG");
+	$("#img-circularaj").attr('src', "http://foundry-matrix.github.io/fmblog/img/asim1.jpg");
 	console.log("mouse on");
 
 }, function(){
-	$("#img-circularaj").attr('src', "http://foundry-matrix.github.io/fmblog/img/asim2.JPG");
+	$("#img-circularaj").attr('src', "http://foundry-matrix.github.io/fmblog/img/asim2.jpg");
 	
 	console.log("mouse off");
 });
 
 
 $("#img-circularga").hover( function(){
-	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg1.JPG");
+	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg1.jpg");
 	console.log("mouse on");
 
 }, function(){
-	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg2.JPG");
+	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg2.jpg");
 	
 	console.log("mouse off");
 });
@@ -65,7 +65,7 @@ $("#img-circularga").hover( function(){
 <div class="colour">
 <div class="row">
 	<div class ="col-lg-4 col-sm-4">
-	<img id="img-circulardk" src="{{ "/img/cup1.JPG" | prepend: site.baseurl }}">
+	<img id="img-circulardk" src="{{ "/img/cup1.jpg" | prepend: site.baseurl }}">
 </div>
 
 <div class ="col-lg-8 col-sm-8">
@@ -89,7 +89,7 @@ $("#img-circularga").hover( function(){
 
 <div class="row team_row">
 	<div class ="col-lg-4 col-sm-4">
-	<img id="img-circularphb" src="https://scontent-b-lhr.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1506007_10154830165570183_1136743687473614627_n.jpg?oh=f88d07851204686f04c3e001d79b9d38&oe=5522CDA6">
+	<img id="img-circularphb" src="{{ "/img/per1.jpg" | prepend: site.baseurl }}">
 	</div>
 
 <div class ="col-lg-8 col-sm-8">
@@ -115,7 +115,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 <div class="row team_row">
 	<div class ="col-lg-4 col-sm-4">
-		<img  id="img-circularaj" src="https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1456685_10152070689069715_1562939626_n.jpg?oh=d20e0221e0cca39a90300bda87990ce4&oe=55531A4E" width="200" height="200">
+		<img  id="img-circularaj" src="{{ "/img/asim1.jpg" | prepend: site.baseurl }}" width="200" height="200">
 
 </div>
 
@@ -141,8 +141,8 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 	<div class ="col-lg-4 col-sm-4">
 
-	<div class="img-circularga">
-	</div>
+	<img class="img-circularga" src="{{ "/img/greg1.jpg" | prepend: site.baseurl }}" width="200" height="200">
+
 
 </div>
 
