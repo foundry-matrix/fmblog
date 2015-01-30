@@ -4,7 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-<div class="colour">
 
 <div class="row">
 	<div class ="col-lg-4 col-sm-4">
@@ -15,7 +14,8 @@ permalink: /team/
 <div class ="col-lg-8 col-sm-8">
 	<h3 class="name">Declan Kiernan</h3>
 	This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/
-	<a href="https://www.linkedin.com/">
+<div class="social_box">
+<a href="https://www.linkedin.com/">
 <img class="social_icon" src="http://cdn.flaticon.com/png/256/8707.png">
 </a>
 <a href="https://www.github.com">
@@ -25,11 +25,12 @@ permalink: /team/
 <a href="https://www.codewars.com">
 <img class="social_icon" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1400019742/pbpj9oxf1ipwrisnj9ia.png">
 </a>
-
-	</div>
 </div>
 
-<div class="row">
+</div>
+</div>
+
+<div class="row team_row">
 	<div class ="col-lg-4 col-sm-4">
 	<div class="img-circularphb">
 	</div>
@@ -38,6 +39,8 @@ permalink: /team/
 <div class ="col-lg-8 col-sm-8">
 <h3 class="name">Per Harald Borgen</h3>
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+<div class="social_box">
 <a href="https://www.linkedin.com/">
 <img class="social_icon" src="http://cdn.flaticon.com/png/256/8707.png">
 </a>
@@ -47,13 +50,14 @@ This is the base Jekyll theme. You can find out more info about customizing your
 <a href="https://www.codewars.com">
 <img class="social_icon" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1400019742/pbpj9oxf1ipwrisnj9ia.png">
 </a>
+</div>
 
 
 </div>
 </div>
 
 
-<div class="row">
+<div class="row team_row">
 	<div class ="col-lg-4 col-sm-4">
 	<div class="img-circularaj">
 	</div>
@@ -62,6 +66,8 @@ This is the base Jekyll theme. You can find out more info about customizing your
 <div class ="col-lg-8 col-sm-8">
 <h3 class="name">Asim Javed</h3>
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+<div class="social_box">
 <a href="https://www.linkedin.com/">
 <img class="social_icon" src="http://cdn.flaticon.com/png/256/8707.png">
 </a>
@@ -71,11 +77,11 @@ This is the base Jekyll theme. You can find out more info about customizing your
 <a href="https://www.codewars.com">
 <img class="social_icon" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1400019742/pbpj9oxf1ipwrisnj9ia.png">
 </a>
-
 </div>
 </div>
+</div>
 
-<div class="row">
+<div class="row team_row">
 
 	<div class ="col-lg-4 col-sm-4">
 
@@ -103,7 +109,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 </div>
 
 
-</div>
+
 
 
 

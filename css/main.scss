@@ -13,6 +13,25 @@ div a img{
 	margin-bottom: 20px;
 }
 
+.team_row{
+	margin-bottom: 20px;
+}
+
+.site-header{
+
+	min-height: 56px;
+  position: fixed !important; 
+  z-index: 100005 !important;
+  width: 100%;
+  background-color: white;
+  border-bottom: 0px !important;
+    border-top: 0px !important;
+
+}  
+
+.page-content{
+	padding-top:60px !important;
+}
 
 #instalogo{
 	width: 150px;
