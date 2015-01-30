@@ -83,6 +83,14 @@ div a img{
 
 
 #img-circulardk{
+
+ 	-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+
  width: 200px;
  height: 200px;
 /* background-image: url('https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1456685_10152070689069715_1562939626_n.jpg?oh=d20e0221e0cca39a90300bda87990ce4&oe=55531A4E');*/
@@ -103,6 +111,13 @@ margin:20px;
 }
 
 #img-circularga{
+    
+  	-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
  width: 200px;
  height: 200px;
  /*background-image: url('https://avatars1.githubusercontent.com/u/10707415?v=3&s=460');*/
@@ -113,7 +128,14 @@ margin:20px;
 }
 
 
-.img-circularaj{
+#img-circularaj{
+	 	-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+
  width: 200px;
  height: 200px;
  /*background-image: url('https://scontent-a-lhr.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/p480x480/1891251_10153966476225472_1605760424_n.jpg?oh=4fc8919776c1bd270e44d0919a73bb94&oe=556A306F');

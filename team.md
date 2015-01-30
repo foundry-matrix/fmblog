@@ -13,39 +13,38 @@ $("#img-circulardk").hover( function(){
 
 }, function(){
 	$("#img-circulardk").attr('src', "http://foundry-matrix.github.io/fmblog/img/cup2.JPG");
-	
 	console.log("mouse off");
 });
 
 
 $("#img-circularphb").hover( function(){
-	$("#img-circularphb").attr('src', "http://foundry-matrix.github.io/fmblog/img/per1.jpg");
+	$("#img-circularphb").attr('src', "http://foundry-matrix.github.io/fmblog/img/per2.jpg");
 	console.log("mouse on");
 
 }, function(){
-	$("#img-circularphb").attr('src', "http://foundry-matrix.github.io/fmblog/img/per2.jpg");
+	$("#img-circularphb").attr('src', "http://foundry-matrix.github.io/fmblog/img/per1.jpg");
 	
 	console.log("mouse off");
 });
 
 
 $("#img-circularaj").hover( function(){
-	$("#img-circularaj").attr('src', "http://foundry-matrix.github.io/fmblog/img/asim1.JPG");
+	$("#img-circularaj").attr('src', "http://foundry-matrix.github.io/fmblog/img/asim2.JPG");
 	console.log("mouse on");
 
 }, function(){
-	$("#img-circularaj").attr('src', "http://foundry-matrix.github.io/fmblog/img/asim2.JPG");
+	$("#img-circularaj").attr('src', "http://foundry-matrix.github.io/fmblog/img/asim1.JPG");
 	
 	console.log("mouse off");
 });
 
 
 $("#img-circularga").hover(function(){
-	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg1.JPG");
+	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg2.JPG");
 	console.log("mouse on");
 
 }, function(){
-	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg2.JPG");
+	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg1.JPG");
 	
 	console.log("mouse off");
 });
