@@ -40,7 +40,7 @@ $("#img-circularaj").hover( function(){
 });
 
 
-$("#img-circularga").hover( function(){
+$("#img-circularga").hover(function(){
 	$("#img-circularga").attr('src', "http://foundry-matrix.github.io/fmblog/img/greg1.JPG");
 	console.log("mouse on");
 
@@ -141,7 +141,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 	<div class ="col-lg-4 col-sm-4">
 
-	<img class="img-circularga" src="{{ "/img/greg1.JPG" | prepend: site.baseurl }}" width="200" height="200">
+	<img id="img-circularga" src="{{ "/img/greg1.JPG" | prepend: site.baseurl }}" width="200" height="200">
 
 
 </div>
