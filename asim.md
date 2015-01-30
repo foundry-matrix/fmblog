@@ -4,7 +4,7 @@ permalink: /asim/
 ---
 
 <div class="img1">
-	<h1>Asim Javed</h1>
+	<h1 class="ajh1">Asim Javed</h1>
 </div>
 
 <div class="img2">
