@@ -32,6 +32,14 @@
   <link rel="stylesheet" href="{{ "/css/greg.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/per.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/dex.css" | prepend: site.baseurl }}">
+  <!-- notification css -->
+  <!-- {% if page.layout == "notification" %}
+    <link rel="stylesheet" href="{{ "/css/notification.css" | prepend: site.baseurl }}">
+  {% endif %} -->
+
+  {% if page.tag == "notification" %}
+    <link rel="stylesheet" href="{{ "/css/notification.css" | prepend: site.baseurl }}">
+  {% endif %}
 
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
