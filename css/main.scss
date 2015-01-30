@@ -18,7 +18,6 @@ div a img{
 }
 
 .site-header{
-
 	min-height: 56px;
   position: fixed !important; 
   z-index: 100005 !important;
@@ -28,6 +27,13 @@ div a img{
     border-top: 0px !important;
 
 }  
+
+.site-nav{
+	.menu-icon{
+		padding-top: 6px !important;
+
+	}
+}
 
 .page-content{
 	padding-top:60px !important;
