@@ -62,6 +62,9 @@ $("#img-circularga").hover(function(){
 
 
 <div class="colour">
+
+
+
 <div class="row">
 	<div class ="col-lg-4 col-sm-4">
 	<img id="img-circulardk" src="{{ "/img/cup1.JPG" | prepend: site.baseurl }}">
@@ -74,7 +77,7 @@ $("#img-circularga").hover(function(){
 <a href="https://www.linkedin.com/">
 <img class="social_icon" src="http://cdn.flaticon.com/png/256/8707.png">
 </a>
-<a href="https://www.github.com">
+<a href="https://github.com/warringgod">
 <img class="social_icon" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png">
 </a>
 
@@ -98,10 +101,10 @@ Hi, my name is Per. I'm tthe best Norwegian devops on the Foundry-Matrix team. C
 <a href="https://www.linkedin.com/profile/view?id=92593053">
 <img class="social_icon" src="http://cdn.flaticon.com/png/256/8707.png">
 </a>
-<a href="https://www.linkedin.com">
+<a href="https://github.com/perborgen">
 <img class="social_icon" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2000px-Octicons-mark-github.svg.png">
 </a>
-<a href="https://www.codewars.com">
+<a href="http://www.codewars.com/users/mrborgen">
 <img class="social_icon" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1400019742/pbpj9oxf1ipwrisnj9ia.png">
 </a>
 </div>
@@ -147,6 +150,7 @@ Hi, my name is Asim, I like the Internet and I love to write tests for websites.
 <div class ="col-lg-8 col-sm-8">
 	<h3 class="name">Greg Aubert</h3>
 My name is Greg. I love user stories. I'm currently the best repo owner in London. Click on one of the links below to get to my social profiles.
+<div class="social_box">
 <a href="uk.linkedin.com/in/gregaubert/">
 <img class="social_icon" src="http://cdn.flaticon.com/png/256/8707.png">
 </a>
@@ -156,8 +160,7 @@ My name is Greg. I love user stories. I'm currently the best repo owner in Londo
 <a href="http://www.codewars.com/users/gregaubs">
 <img class="social_icon" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_98,w_98/v1400019742/pbpj9oxf1ipwrisnj9ia.png">
 </a>
-
-
+</div>
 </div>
 </div>
 </div>
