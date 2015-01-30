@@ -20,22 +20,52 @@ permalink: /contact/
 
 <div class="contact-form col-xs-12 col-md-12">
 	<div class="container-fluid">
-		<form action="https://formspree.io/gaj.aubert@gmail.com">
+
+		<!-- <form action="https://formspree.io/gaj.aubert@gmail.com" method="POST">
 			<div class="form-group">
 				<label for="form-name-input">Name</label>
 				<input type="text" class="form-control" id="form-name-input" placeholder="Your Name">
 			</div>
 			<div class="form-group">
 				<label for="form-email-input">Email</label>
-				<input type="email" class="form-control" id="form-email-input" placeholder=" Your Email Address">
+				<input type="email" name="_replyto" class="form-control" id="form-email-input" placeholder=" Your Email Address">
 			</div>
 			<div class="form-group">
 				<label for="form-text-input">Please write your message here </label>
 				<textarea id="textarea" class="form-control" name="textarea" rows="3"></textarea>
 			</div>
-			<button type="submit" class="btn btn-default">Send</button>
+			<button type="submit" value="Send" class="btn btn-default">Send</button>
 
+
+		</form> -->
+
+		<!-- <form action="//formspree.io/you@email.com">
+		    <input type="text" name="name">
+		    <input type="email" name="_replyto">
+		    <input type="submit" value="Send">
+		</form> -->
+
+
+		<form accept-charset="UTF-8" action="https://formkeep.com/f/234dcb5a2d8c" method="POST">
+  			<input type="hidden" name="utf8" value="✓">
+
+  			<div class="form-group">
+				<label for="form-name-input">Name</label>
+				<input name="name" type="text" class="form-control" id="form-name-input" placeholder="Your Name">
+			</div>
+			<div class="form-group">
+				<label for="form-email-input">Email</label>
+				<input name="email" type="email" class="form-control" id="form-email-input" placeholder=" Your Email Address">
+			</div>
+			<div class="form-group">
+				<label for="form-text-input">Please write your message here </label>
+				<textarea id="textarea" class="form-control" name="textarea" rows="3"></textarea>
+			</div>
+			<button type="submit" value="Send" class="btn btn-default">Send</button>
 		</form>
+
+
+
 	</div>
 </div>
 
