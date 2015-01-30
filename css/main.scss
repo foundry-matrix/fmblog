@@ -18,13 +18,13 @@ div a img{
 }
 
 .site-header{
-	min-height: 56px;
+  min-height: 56px;
   position: fixed !important; 
   z-index: 100005 !important;
   width: 100%;
   background-color: white;
   border-bottom: 0px !important;
-    border-top: 0px !important;
+  border-top: 0px !important;
 
 }  
 
@@ -85,7 +85,7 @@ div a img{
 .img-circulardk{
  width: 200px;
  height: 200px;
- background-image: url('https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1456685_10152070689069715_1562939626_n.jpg?oh=d20e0221e0cca39a90300bda87990ce4&oe=55531A4E');
+/* background-image: url('https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1456685_10152070689069715_1562939626_n.jpg?oh=d20e0221e0cca39a90300bda87990ce4&oe=55531A4E');*/
  background-size: cover;
  display: block;
  border-radius: 100px;
